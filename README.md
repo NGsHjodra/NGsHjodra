@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Neua (NGs). I can do basic c cpp python flask-python
 
 <!--
 **Niyakit/Niyakit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
