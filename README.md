@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋!</h1>
 <h3 align="center">I'm Neua (NGs). Interested in Data Science Field.</h3>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NGsHjodra&theme=tokyonight&mode=weekly"/>
-
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NGsHjodra&theme=tokyonight&mode=weekly"/>
+</div>
 <!--
 **Niyakit/Niyakit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
