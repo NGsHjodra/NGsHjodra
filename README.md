@@ -1,4 +1,7 @@
-### Hi there 👋 I'm Neua (NGs). Interested in Data Science Field
+<h1 align="center">Hi there 👋!</h1>
+<h3 align="center">I'm Neua (NGs). Interested in Data Science Field.</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NGsHjodra&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **Niyakit/Niyakit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
